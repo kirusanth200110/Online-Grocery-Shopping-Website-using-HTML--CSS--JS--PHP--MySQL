@@ -1,0 +1,13 @@
+Lenin Y.
+	Home page (index.php)
+	Category Page (productlist.php)
+	Feedback page (feedback.php)
+	thanking for feedback and receive feedback (receivefeed.php)
+
+S. Kirusanth
+	Admin Dashboard(Folder) (Admin Dashboard/*)
+	item view page (item.php)
+
+A. Shivaphiriyan
+	Login page
+	Signup page
